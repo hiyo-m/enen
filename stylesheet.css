@@ -3,10 +3,6 @@ body {
   font-family: "HiraMinProN-W6";
 }
 
-a {
-  text-decoration: none;
-}
-
 .container {
   width: 1170px;
   padding: 0 15px;
