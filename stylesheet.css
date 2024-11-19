@@ -16,7 +16,7 @@ a {
 .top-wrapper {
   padding: 0 0 100px 0;
   background-size: cover;
-  background: "dora.jpeg";
+  background: src(dora.jpeg);
   text-align: center;
 }
 
