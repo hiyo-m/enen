@@ -29,6 +29,7 @@ a {
 .top-wrapper p {
 color: black;
 font-size: 15px;
+margin: 0 20px;
 }
 
 .btn-wrapper {
