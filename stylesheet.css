@@ -29,7 +29,8 @@ a {
 .top-wrapper p {
 color: black;
 font-size: 25px;
-margin: 0 20px;
+margin: 20px 0;
+text-align: center;
 }
 
 .btn-wrapper {
