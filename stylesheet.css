@@ -7,34 +7,7 @@ a {
   text-decoration: none;
 }
 
-.container {
-  width: 1170px;
-  padding: 0 15px;
-  margin: 0 auto;
+.top-wrapper img{
+  width: 100%;
 }
 
-.top-wrapper {
-  padding: 0 0 100px 0;
-  background-size: cover;
-  background: src(dora.jpeg);
-  text-align: center;
-}
-
-.top-wrapper h1 {
-  color: black;
-  font-size: 38px;
-  letter-spacing: 5px;
-}
-
-.top-wrapper p {
-color: black;
-font-size: 25px;
-margin: 20px 0;
-text-align: center;
-}
-
-
-.btn-wrapper p {
-  margin: 10px 0;
-  color:white;
-}
