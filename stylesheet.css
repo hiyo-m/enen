@@ -8,10 +8,16 @@ a {
 }
 
 .img{
-  width: 90%;
+  width: 100%;
+  margin-bottom: 60px;
 }
 
-
+.top-wrapper {
+  background-color: white;
+  text-align: center;
+  margin: 0 auto;
+  width: 100%;
+}
 
 .btn {
   padding: 8px 24px;
