@@ -17,15 +17,18 @@ a {
   text-align: center;
   margin: 0 auto;
   width: 100%;
+  position: relative;
 }
 
-.btn {
+.btn-wrapper a{
   padding: 8px 24px;
   color: white;
   display: inline-block;
   opacity: 0.8;
+  position: absolute;
+  top: -100px;
 }
 
-.btn:hover {
+.btn-wrapper a:hover {
   opacity: 1;
 }
