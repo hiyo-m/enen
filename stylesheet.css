@@ -43,18 +43,10 @@ text-align: center;
   color: white;
   display: inline-block;
   opacity: 0.8;
-  border-radius: 4px;
+  
 }
 
 .btn:hover {
   opacity: 1;
 }
 
-.fa {
-  margin-right: 5px;
-}
-
-header {
-  height: 65px;
-  width: 100%;
-  background-color: rgba(34, 49, 52, 0.9);
