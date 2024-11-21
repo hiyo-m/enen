@@ -9,12 +9,14 @@ a {
 }
 
 .btn {
-   margin: auto;
-  line-height: 75px;
+  line-height: 40px;
   padding: 0 60px;
   color: #524748;
   opacity: 1;
   text-align: center;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
 }
 
 .btn:hover {
@@ -27,17 +29,18 @@ a {
 }
 
 .top-wrapper2 img{
+  position: relative;
   width: 100%;
   bottom: 0;
 }
 
 .footer p{
+  position: absolute;
   pandding: 50px 100px;
   letter-spacing: 5px;
   line-height: 25px;
   font-size: 15px;
 }
-
 
 .contents {
   text-align: center;
