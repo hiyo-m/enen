@@ -9,6 +9,8 @@ a {
 }
 
 .btn {
+  width: 100%;
+  hight: 75px;
   margin: 0 auto;
   padding: 8px 24px;
   color: #524748;
