@@ -18,14 +18,14 @@ a {
 }
 
 .btn-wrapper {
-　　　　text-align: center;
-  margin: 0 auto;
-  width: 100%;
+　　　　display: flex;
+  justify-content: center;
   color: #524748;
   display: flex;
 }
 
 .btn-wrapper a {
+  margin: 40px;
   color: #524748;
   opacity: 1;
   display: flex;
