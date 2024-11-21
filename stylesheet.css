@@ -8,10 +8,6 @@ a {
   text-decoration: none;
 }
 
-li {
-  list-style: none;
-}
-
 .btn {
   padding: 0 60px;
   color: #524748;
@@ -50,9 +46,9 @@ li {
   font-size: 15px;
 }
 
-.footer-list li{
+.footer-list p{
   position: absolute;
-  left: 70%;
+  left: 80%;
   top: 150px;
   color: white;
   letter-spacing: 5px;
