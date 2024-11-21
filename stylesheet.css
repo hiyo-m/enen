@@ -19,6 +19,7 @@ a {
 
 .btn-wrapper {
 　　　　text-align: center;
+  margin: 0 auto;
   width: 100%;
   color: #524748;
   display: flex;
