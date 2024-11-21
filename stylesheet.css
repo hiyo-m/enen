@@ -26,6 +26,10 @@ a {
   opacity: 1;
 }
 
+.btn {
+  opacity: 1;
+}
+
 .btn:hover {
   opacity: 0.7;
 }
