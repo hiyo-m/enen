@@ -9,6 +9,7 @@ a {
 }
 
 .btn {
+  float: left;
   padding: 0 60px;
   color: #524748;
   opacity: 1;
