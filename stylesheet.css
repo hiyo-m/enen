@@ -34,8 +34,9 @@ a {
 
 .footer p{
   pandding: 50px 100px;
-  letter-spacing: 8px;
-  line-height: 30px;
+  letter-spacing: 5px;
+  line-height: 25px;
+  font-size: 15px;
 }
 
 
