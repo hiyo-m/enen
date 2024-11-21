@@ -18,8 +18,8 @@ a {
 }
 
 .btn-wrapper {
-  display: flex;
-  margin:0 auto;
+  display: inline-block;
+  margin: 0 10px;
   color: #524748;
 }
 
