@@ -18,7 +18,7 @@ a {
 }
 
 .btn-wrapper {
-  text-align: center;
+  display: flex;
   margin:0 auto;
   color: #524748;
 }
@@ -28,7 +28,6 @@ a {
   margin: 0 40px;
   color: #524748;
   opacity: 1;
-  display: flex;
 }
 
 .top-wrapper2 img{
