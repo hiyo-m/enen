@@ -8,7 +8,7 @@ a {
   text-decoration: none;
 }
 
-header {
+menu {
   height: 75px;
   width: 100%;
   background-color: #f8f4e6;
@@ -28,14 +28,6 @@ header {
   width: 100%;
 }
 
-.btn-contents a{
-  padding: 8px 25px;
-  color: black;
-  display: inline-block;
-  opacity: 0.8;
-  justify-content: space-between;
-}
-
-.btn-contents a:hover {
-  opacity: 1;
+.contents p{
+  color: #524748;
 }
