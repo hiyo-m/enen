@@ -39,7 +39,7 @@ a {
 .footer p{
   position: absolute;
   left: 60px;
-  top: 70%px;
+  top: 90%px;
   color: white;
   letter-spacing: 5px;
   line-height: 25px;
@@ -49,7 +49,7 @@ a {
 .footer-list p{
   position: absolute;
   left: 85%;
-  top: 80%;
+  top: 90%;
   color: white;
   letter-spacing: 5px;
   line-height: 25px;
