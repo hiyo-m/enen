@@ -17,15 +17,14 @@ a {
   margin-bottom: 20px;
 }
 
-.btn {
-  margin: 0 auto;
+.btn-wrapper {
+　　　　text-align: center;
   width: 100%;
   color: #524748;
   display: flex;
-  justify-content: center;
 }
 
-.btn a {
+.btn-wrapper a {
   color: #524748;
   opacity: 1;
   display: flex;
