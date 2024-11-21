@@ -23,7 +23,7 @@ menu {
   padding: 0 60px;
   color: black;
   opacity: 0.8;
-  text-align: center;
+  justify-content: center;
 }
 
 .top-wrapper img{
