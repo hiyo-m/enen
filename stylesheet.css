@@ -22,6 +22,7 @@ a {
   margin:0 auto;
   color: #524748;
   display: flex;
+  font-size: 20px;
 }
 
 .btn-wrapper a {
