@@ -25,7 +25,7 @@ a {
 }
 
 .btn-wrapper a {
-  margin: 40px;
+  margin: 0 40px;
   color: #524748;
   opacity: 1;
   display: flex;
