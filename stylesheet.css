@@ -12,26 +12,36 @@ a {
   margin-bottom: 60px;
 }
 
-.top-wrapper {
+.top-contents {
   background-color: white;
   text-align: center;
   margin: 0 auto;
   width: 100%;
+  position: relative;
 }
 
-.btn-wrapper a{
-  padding: 8px 24px;
+.btn-contents a{
+  position: absolute;
+  top: -250px;
+}
+
+
+.btn-contents a{
+  padding: 8px 50px;
   color: black;
   display: inline-block;
   opacity: 0.8;
+  position: absolute;
+  justify-content: space-between;
 }
 
-.btn-wrapper a:hover {
+.btn-contents a:hover {
   opacity: 1;
 }
 
 .footer img {
   width: 100%;
+  margin: 0 auto;
 }
 
 
