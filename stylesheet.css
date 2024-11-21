@@ -12,9 +12,6 @@ menu {
   height: 75px;
   width: 100%;
   background-color: #f8f4e6;
-  position: fixed;
-  top: 0;
-  z-index: 10;
 }
 
 .menu-center a {
@@ -22,7 +19,6 @@ menu {
   line-height: 75px;
   padding: 0 60px;
   color: black;
-  opacity: 0.8;
   justify-content: center;
 }
 
@@ -30,6 +26,13 @@ menu {
   width: 100%;
   margin-bottom: 60px;
 }
+
+.footer p{
+  pandding: 50px 100px;
+  letter-spacing: 8px;
+  line-height: 30px;
+}
+
 
 .contents {
   text-align: center;
