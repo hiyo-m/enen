@@ -13,7 +13,6 @@ li {
 }
 
 .btn {
-  line-height: 40px;
   padding: 0 60px;
   color: #524748;
   opacity: 1;
@@ -33,9 +32,12 @@ li {
 }
 
 .top-wrapper2 img{
-  position: relative;
   width: 100%;
   bottom: 0;
+}
+
+.top-wrapper2 {
+  position: relative;
 }
 
 .footer p{
