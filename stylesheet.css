@@ -8,27 +8,27 @@ a {
   text-decoration: none;
 }
 
-.btn:hover {
-  opacity: 0.7;
-}
-
 .top-wrapper img{
   width: 100%;
   margin-bottom: 20px;
 }
 
 .btn-wrapper {
-  display: inline-block;
+  text-align: center;
   margin: 0 10px;
   margin: 0 auto;
   color: #524748;
 }
 
 .btn-wrapper a {
-  text-align: center;
+  display: inline-block;
   margin: 0 40px;
   color: #524748;
   opacity: 1;
+}
+
+.btn:hover {
+  opacity: 0.7;
 }
 
 .top-wrapper2 img{
